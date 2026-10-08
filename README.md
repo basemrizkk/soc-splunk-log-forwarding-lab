@@ -90,6 +90,5 @@ Forwarder configuration: [`task2-windows/inputs.conf`](task2-windows/inputs.conf
 ├── task1-apache/
 │   └── inputs.conf
 └── task2-windows/
-    ├── inputs.conf
-    └── inputs-conf-screenshot.png
+    └── inputs.conf
 ```
