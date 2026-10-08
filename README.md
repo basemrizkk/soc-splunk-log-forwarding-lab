@@ -54,7 +54,7 @@ index="win_server" EventCode=4104 Message="*Get-Date*"
 index="win_server" source="WinEventLog:Microsoft-Windows-Sysmon/Operational"
 ```
 
-Forwarder configuration: [`task2-windows/inputs.conf`](task2-windows/inputs.conf) ([screenshot](task2-windows/inputs-conf-screenshot.png))
+Forwarder configuration: [`task2-windows/inputs.conf`](task2-windows/inputs.conf)
 
 ## Results
 
