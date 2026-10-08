@@ -73,12 +73,6 @@ Forwarder configuration: [`task2-windows/inputs.conf`](task2-windows/inputs.conf
 - How Group Policy controls PowerShell logging and how Event ID 4104 exposes executed script content.
 - How scanner activity shows up in web logs and how to turn that into a detection.
 
-## Next steps
-
-- Apply a tuned Sysmon configuration to capture network connections (Event ID 3) and more detail on process activity.
-- Build searches and alerts for Active Directory authentication events such as 4624, 4625 and account changes.
-- Add field extractions and a dashboard for the Sysmon and PowerShell data.
-
 ## Repository structure
 
 ```
